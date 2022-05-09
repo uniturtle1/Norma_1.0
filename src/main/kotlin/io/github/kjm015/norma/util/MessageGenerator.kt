@@ -396,11 +396,11 @@ class MessageGenerator {
     fun intent(): String {
         val intents = object : ArrayList<String>() {
             init {
-                add("I'm gonna to kick your butt")
-                add("Who are you calling short")
-                add("I gonna commit a pro-gamer move on")
-                add("Are you just trying to make me angry now")
-                add("I am going to")
+                add("I'm gonna to kick your butt,")
+                add("Who are you calling short,")
+                add("I gonna commit a pro-gamer move on you")
+                add("Are you just trying to make me angry now,")
+                add("Oh yeah you want to mess with me. fucking try me,")
             }
         }
         return intents.random()
@@ -446,6 +446,8 @@ class MessageGenerator {
                 add("Dork")
                 add("Weezer Fan")
                 add("you fucking idiots")
+                add("crayon muncher")
+                add("Shitlord")
             }
         }
         return target.random()
