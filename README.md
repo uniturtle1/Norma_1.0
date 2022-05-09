@@ -13,8 +13,8 @@ This application can be run either from the latest published release, built from
 
 | Environment variable | Description        | Example                                                                         |
 |----------------------|--------------------|---------------------------------------------------------------------------------|
-| `DISCORD_TOKEN`      | [Bot token](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token#fetching-your-bots-token)          | <sub><sup>DRSdfL2sRBB4d54Rs5DSTp69C4TRAFb1.9aqaVAPiod6Ma5xC6HMwWQ8rvvMA43ATD9Uwkpcq5LVQUw</sup></sub> |
-| `DISCORD_OWNER`      | [Owner user id](https://www.howtogeek.com/714348/how-to-enable-or-disable-developer-mode-on-discord/)      | 965407413600764227                                                              |
+| `DISCORD_TOKEN`      | [Bot token](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token#fetching-your-bots-token)          | <sub><sup>OTcyNzUwMTM0Njk1ODU0MDkx.GyiFPA.GAMu0kz-wjBeFZfO63GqiInMzft2rqedMlgGag</sup></sub> |
+| `DISCORD_OWNER`      | [Owner user id](https://www.howtogeek.com/714348/how-to-enable-or-disable-developer-mode-on-discord/)      | 108332748019625984                                                              |
 | `DISCORD_GAME`       | Game               | My Game                                                                         |
 | `DISCORD_PREFIX`     | Bot command prefix | !kyle                                                                           |
 
